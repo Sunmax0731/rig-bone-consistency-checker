@@ -1,0 +1,11 @@
+{
+  "product": "rig-bone-consistency-checker",
+  "title": "リグ・ボーン整合チェック",
+  "domain": "AssetPipeline",
+  "ideaNo": 3,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
